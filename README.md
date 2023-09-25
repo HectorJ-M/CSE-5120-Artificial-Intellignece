@@ -1,1 +1,3 @@
-# All code for the course CSE 5120 Excerises, etc. 
+#CSE 5120 Artifical Intelligence Coding Assignments
+
+
